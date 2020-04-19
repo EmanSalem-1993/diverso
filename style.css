@@ -1,0 +1,190 @@
+body{
+	font-family: Arial;
+	background-color: #f4f4f4;
+}
+
+
+header{
+	background-color: #ccc;
+
+	height: 40px;
+	width: 100%;
+	line-height: 40px;
+	
+    text-align: right;
+    word-spacing: 3px;
+
+
+}
+ a{text-decoration: none;
+
+}
+.bnm{
+	background-color: #fff;
+	width: 100%;
+	height: 140px;
+	display: inline-block;
+	}
+
+
+
+
+.er div {
+	display: inline-block;
+	width: 9%;
+	float: right;
+	padding-top: 50px;
+
+	 
+}
+h4{
+	padding-top: 0;
+}
+.u img{
+	margin-bottom:5px;
+}
+.er a{
+	color: #ccc;
+
+}
+.dd {
+	float: left;
+	padding-top: 0;
+}
+.a img , .a a{
+	display: block;
+	margin: 0;
+	
+
+
+}
+
+	
+.u{
+	width: 20px;
+	height: 20px;
+}
+.honey{
+	clear: both;
+	width: 100%;
+	height: 300px;
+}
+#eman{
+	text-align: center;
+}
+#eman1{
+	text-align: center;
+}#eman2{
+	text-align: center;
+}#eman3{
+	text-align: center;
+}
+span{
+	color: #808080;
+}
+.content{
+	display: inline-block;
+	width: 100%;
+	height: 400px;
+}
+
+.content article{
+	float: left;
+	width: 23%;
+	height: 350px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.content article p{
+	text-align: justify;
+}
+.a{
+	width: 300px;
+	height: 150px;
+}
+
+
+.ert {
+	display: inline-block;
+	
+	background-color:  #999888;
+	height: 70px;
+	width: 100%;
+	
+
+	}
+
+.ert img , .ert p{
+	float: left;
+}
+.ert img
+{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
+.ert p{
+	line-height: 40px;
+}
+#g{
+	width: 40px;
+	height: 40px;
+}
+.k{
+	display: inline-block;
+	width:100%;
+	height: 350px;
+	background-color: #808080;
+	
+	
+}
+.k article{
+	float: left;
+	width: 23%;
+	height: 350px;
+	margin-top: 30px;
+	
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+.play{
+	width: 50px;
+	height: 50px;
+	margin: 10px;
+}
+.qwert a {
+	text-decoration: none;
+	display: block;
+}
+.end  {
+	clear: both;
+	background-color: #808080;
+	height: 50px;
+	width: 100%;
+	padding: 0,auto;
+
+
+
+}
+.social{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	float: right;
+	margin-right: 15px;
+	line-height: 50px;
+	margin-top: 5px;
+
+
+
+
+}
+.end2{
+	float: left;
+	padding: 5px;
+}
